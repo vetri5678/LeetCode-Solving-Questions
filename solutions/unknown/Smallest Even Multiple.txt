@@ -1,0 +1,5 @@
+// Title: Smallest Even Multiple
+            // Difficulty: Unknown
+            // Language: undefined
+            // Link: https://leetcode.com/problems/smallest-even-multiple/
+
