@@ -1,0 +1,5 @@
+// Title: First Bad Version
+            // Difficulty: Unknown
+            // Language: undefined
+            // Link: https://leetcode.com/problems/first-bad-version/
+
